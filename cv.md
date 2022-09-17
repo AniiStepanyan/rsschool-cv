@@ -21,6 +21,7 @@ I want to learn Front-End Development in **RSSchool.** I do my best to gain new 
 * Git, GitHub
 * VS Code
 * Adobe Photoshop
+* CorelDraw
 
 ## Code Example
 ```
